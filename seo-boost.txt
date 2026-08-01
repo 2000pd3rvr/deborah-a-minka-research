@@ -1,4 +1,4 @@
-last_seo_boost=2026-07-31T23:59:22Z
+last_seo_boost=2026-08-01T00:02:59Z
 slug=deborah-a-minka-research
 platforms=github+pages+huggingface
 public=true
