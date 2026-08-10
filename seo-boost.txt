@@ -1,7 +1,7 @@
-last_seo_boost=2026-08-10T07:43:43Z
+last_seo_boost=2026-08-10T07:59:38Z
 slug=deborah-a-minka-research
 platforms=huggingface+github+pages
-prefer=huggingface
+prefer=wordpress
 hf=https://huggingface.co/0001AMA/deborah-a-minka-research
 public=true
 purpose=machine-intelligence-technical-profile
